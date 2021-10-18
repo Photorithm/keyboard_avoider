@@ -137,10 +137,10 @@
       "name": "keyboard_avoider",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-10-15T21:55:21.917270Z",
+  "generated": "2021-10-18T15:22:28.717579Z",
   "generator": "pub",
   "generatorVersion": "2.13.4"
 }
